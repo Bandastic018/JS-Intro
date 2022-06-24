@@ -5,6 +5,6 @@ let height = 6.2
 let country = "Ghana"
 
 
-console.log(`${Name}` )
-console.log(`${height}ft`)
-console.log(`${country}`) 
+console.log(`${Name}`+ " "+"is my name." )
+console.log("I am"+" "+`${height}ft`+ " tall.")
+console.log("I am from "+ `${country}`)
